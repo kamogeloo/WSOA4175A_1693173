@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WSOA4175A_1693173/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/WSOA4175A_1693173/static/js/main.0b8f2c5a.chunk.js",
+    "main.js.map": "/WSOA4175A_1693173/static/js/main.0b8f2c5a.chunk.js.map",
+    "runtime-main.js": "/WSOA4175A_1693173/static/js/runtime-main.b3fb0b74.js",
+    "runtime-main.js.map": "/WSOA4175A_1693173/static/js/runtime-main.b3fb0b74.js.map",
+    "static/js/2.1c7a193b.chunk.js": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js",
+    "static/js/2.1c7a193b.chunk.js.map": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js.map",
+    "static/js/3.8eaeaba9.chunk.js": "/WSOA4175A_1693173/static/js/3.8eaeaba9.chunk.js",
+    "static/js/3.8eaeaba9.chunk.js.map": "/WSOA4175A_1693173/static/js/3.8eaeaba9.chunk.js.map",
+    "index.html": "/WSOA4175A_1693173/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/WSOA4175A_1693173/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1c7a193b.chunk.js.LICENSE.txt": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/WSOA4175A_1693173/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fb0b74.js",
+    "static/js/2.1c7a193b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0b8f2c5a.chunk.js"
+  ]
+}
