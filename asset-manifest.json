@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/WSOA4175A_1693173/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/WSOA4175A_1693173/static/js/main.0b8f2c5a.chunk.js",
-    "main.js.map": "/WSOA4175A_1693173/static/js/main.0b8f2c5a.chunk.js.map",
-    "runtime-main.js": "/WSOA4175A_1693173/static/js/runtime-main.b3fb0b74.js",
-    "runtime-main.js.map": "/WSOA4175A_1693173/static/js/runtime-main.b3fb0b74.js.map",
-    "static/js/2.1c7a193b.chunk.js": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js",
-    "static/js/2.1c7a193b.chunk.js.map": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js.map",
-    "static/js/3.8eaeaba9.chunk.js": "/WSOA4175A_1693173/static/js/3.8eaeaba9.chunk.js",
-    "static/js/3.8eaeaba9.chunk.js.map": "/WSOA4175A_1693173/static/js/3.8eaeaba9.chunk.js.map",
+    "main.css": "/WSOA4175A_1693173/static/css/main.03557156.chunk.css",
+    "main.js": "/WSOA4175A_1693173/static/js/main.9de3324e.chunk.js",
+    "main.js.map": "/WSOA4175A_1693173/static/js/main.9de3324e.chunk.js.map",
+    "runtime-main.js": "/WSOA4175A_1693173/static/js/runtime-main.39cc5ef4.js",
+    "runtime-main.js.map": "/WSOA4175A_1693173/static/js/runtime-main.39cc5ef4.js.map",
+    "static/css/2.929936b7.chunk.css": "/WSOA4175A_1693173/static/css/2.929936b7.chunk.css",
+    "static/js/2.eb8d9007.chunk.js": "/WSOA4175A_1693173/static/js/2.eb8d9007.chunk.js",
+    "static/js/2.eb8d9007.chunk.js.map": "/WSOA4175A_1693173/static/js/2.eb8d9007.chunk.js.map",
+    "static/js/3.de827b55.chunk.js": "/WSOA4175A_1693173/static/js/3.de827b55.chunk.js",
+    "static/js/3.de827b55.chunk.js.map": "/WSOA4175A_1693173/static/js/3.de827b55.chunk.js.map",
     "index.html": "/WSOA4175A_1693173/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/WSOA4175A_1693173/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.1c7a193b.chunk.js.LICENSE.txt": "/WSOA4175A_1693173/static/js/2.1c7a193b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/WSOA4175A_1693173/static/media/logo.6ce24c58.svg"
+    "static/css/2.929936b7.chunk.css.map": "/WSOA4175A_1693173/static/css/2.929936b7.chunk.css.map",
+    "static/css/main.03557156.chunk.css.map": "/WSOA4175A_1693173/static/css/main.03557156.chunk.css.map",
+    "static/js/2.eb8d9007.chunk.js.LICENSE.txt": "/WSOA4175A_1693173/static/js/2.eb8d9007.chunk.js.LICENSE.txt",
+    "static/media/Ellipse 1.777ef337.gif": "/WSOA4175A_1693173/static/media/Ellipse 1.777ef337.gif",
+    "static/media/abvh.49052f2b.gif": "/WSOA4175A_1693173/static/media/abvh.49052f2b.gif",
+    "static/media/dance_academy.fe8f594a.gif": "/WSOA4175A_1693173/static/media/dance_academy.fe8f594a.gif",
+    "static/media/grafitti.0bf6c57d.gif": "/WSOA4175A_1693173/static/media/grafitti.0bf6c57d.gif",
+    "static/media/internetArt.9ae037d5.gif": "/WSOA4175A_1693173/static/media/internetArt.9ae037d5.gif",
+    "static/media/onoff.a0a1c5cc.gif": "/WSOA4175A_1693173/static/media/onoff.a0a1c5cc.gif",
+    "static/media/reflection_art.aa45d71d.gif": "/WSOA4175A_1693173/static/media/reflection_art.aa45d71d.gif",
+    "static/media/500.css": "/WSOA4175A_1693173/static/media/roboto-vietnamese-500-normal.b8e494da.woff2",
+    "static/media/tunnel-space.4cf53c30.gif": "/WSOA4175A_1693173/static/media/tunnel-space.4cf53c30.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3fb0b74.js",
-    "static/js/2.1c7a193b.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.0b8f2c5a.chunk.js"
+    "static/js/runtime-main.39cc5ef4.js",
+    "static/css/2.929936b7.chunk.css",
+    "static/js/2.eb8d9007.chunk.js",
+    "static/css/main.03557156.chunk.css",
+    "static/js/main.9de3324e.chunk.js"
   ]
 }
