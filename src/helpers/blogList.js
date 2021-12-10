@@ -72,7 +72,7 @@ export const blogList =[
     
     {   
         id:7,
-        name: 'Second Technical Reflection',
+        name: 'Third Technical Reflection',
         image: abvh,
         text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
         path:'/seventhBlog'
@@ -80,7 +80,7 @@ export const blogList =[
     
     {   
         id:8,
-        name: 'Second Artistic Analysis',
+        name: 'Third Artistic Analysis',
         image: abvh,
         text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
         path:'/eighthBlog'
@@ -92,13 +92,7 @@ export const blogList =[
         text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
         path:'/ninethBlog'
     },
-    {   
-        id:10,
-        name: 'Revised Internet ArtWork Proposal',
-        image: abvh,
-        text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
-        path:'/tenththBlog'
-    },
+
 
     
 ];
