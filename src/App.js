@@ -5,6 +5,8 @@ import Home from './pages/Home';
 import Footer from './components/Footer';
 import Blogs from './pages/blogPosts';
 import NetArt from './pages/netArt';
+import Buttons from './pages/buttons';
+import FirstBlog from './blogs/firstBlog';
 
 
 
@@ -20,6 +22,8 @@ function App() {
          <Route exact path='/' component={Home}/>
          <Route export path='/blogPosts' component={Blogs}/>
          <Route export path='/netArt' component={NetArt}/>
+         <Route export path='/buttons' component={Buttons}/>
+         <Route export path='/firstBlog' component={FirstBlog}/>
        </Switch>
        
        <Footer/>
