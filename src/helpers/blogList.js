@@ -58,7 +58,7 @@ export const blogList =[
         name: 'What is Net Art?',
         image: grafitti,
         text: 'In this article I will be discussing a paper written by Ji Yong Park titled Design Principles for Interactive User Experience Through Net Art. This article claims to define user interface principles through user experiences in net art that will allow the designer to achieve user-centered design. Before we get into discussing the principles, I will first explore the concept of net art, to find out what it is and what can and cannot be considered as net art.',
-        path:'/fifthBlog'
+        path:'/blogFive'
     },
 
     
@@ -68,6 +68,36 @@ export const blogList =[
         image: abvh,
         text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
         path:'/sixthBlog'
+    },
+    
+    {   
+        id:7,
+        name: 'Second Technical Reflection',
+        image: abvh,
+        text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
+        path:'/seventhBlog'
+    },
+    
+    {   
+        id:8,
+        name: 'Second Artistic Analysis',
+        image: abvh,
+        text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
+        path:'/eighthBlog'
+    },
+    {   
+        id:9,
+        name: 'First Internet ArtWork Proposal',
+        image: abvh,
+        text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
+        path:'/ninethBlog'
+    },
+    {   
+        id:10,
+        name: 'Revised Internet ArtWork Proposal',
+        image: abvh,
+        text: 'Browser Pong is an internet game that was developed by Stewart Smith and published in 2010. It is an experimental project that was made with HTML, CSS and JavaScript and I believe it qualifies as internet art, Ji Yong Park would agree too. Park, in an article that he wrote titled  Design principles for interactive user experience through net art, argued that net artists need to experiment with the invisible elements and that is exactly what Smith did.',
+        path:'/tenththBlog'
     },
 
     

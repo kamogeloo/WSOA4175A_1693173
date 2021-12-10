@@ -10,12 +10,6 @@ import '../styles/blogPosts.css';
 
 export default class blogPosts extends Component {
 
-    // routeChange=()=>{
-    //     if(blogItem.id){
-    //         console.log('hey now')
-    //     }
-    // }
-
     render() {
         
         return (
